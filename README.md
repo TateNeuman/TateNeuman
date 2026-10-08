@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**TateNeuman/TateNeuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tate, a computing student interested in software development, technology, and learning how things work.
 
-Here are some ideas to get you started:
+I'm currently building my programming skills and working on personal projects to gain more hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I'll be sharing projects, experiments, and things I'm learning along the way. Everything is a work in progress.
+
+---
+
+### Tools & Tech
+
+- Python, HTML, CSS
+- Git & GitHub
+- Visual Studio Code, PyCharm
+- Currently exploring software development and new technologies
+
+---
+
+### A Bit About Me
+
+- 💻 Interested in computers, programming, and technology
+- 🎮 I enjoy gaming
+- 🏋️ Into fitness
+- 🚀 Always looking to improve my skills and learn something new
+- 🛠️ I enjoy building projects and solving problems
